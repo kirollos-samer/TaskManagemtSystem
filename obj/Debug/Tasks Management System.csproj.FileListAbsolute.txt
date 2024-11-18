@@ -1,0 +1,26 @@
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\Tasks Management System.exe.config
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\Tasks Management System.exe
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\Tasks Management System.pdb
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\EntityFramework.dll
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\EntityFramework.xml
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.csproj.AssemblyReference.cache
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.csproj.SuggestedBindingRedirects.cache
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\MainWindow.g.cs
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\UserManagement.g.cs
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\ViewTasks.g.cs
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\App.g.cs
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System_Content.g.cs
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System_MarkupCompile.cache
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System_MarkupCompile.lref
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\MainWindow.baml
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\UserManagement.baml
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\ViewTasks.baml
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.g.resources
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks_Management_System.Properties.Resources.resources
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.csproj.GenerateResource.cache
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.csproj.CoreCompileInputs.cache
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.csproj.CopyComplete
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.exe
+D:\Kirollos Samer Sobhy-J0323108\Application\Tasks Management System\obj\Debug\Tasks Management System.pdb
